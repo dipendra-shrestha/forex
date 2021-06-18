@@ -10,5 +10,7 @@ class EuroApplicationTests {
 	void contextLoads() {
 		assertEquals(7, 7);
 	}
+	
+	// Perform tests from below as well
 
 }
