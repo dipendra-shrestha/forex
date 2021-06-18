@@ -10,6 +10,6 @@ class EuroApplicationTests {
 	void contextLoads() {
 	}
 	
-	// After this perform other tests also
+	// After this perform other tests also please
 
 }
